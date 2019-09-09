@@ -11,6 +11,9 @@
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
 <foaf:name>Johnlemuel Casilag</foaf:name>
+
+<foaf:gender>Male</foaf:gender>
+
 <foaf:title>Mr</foaf:title>
 <foaf:givenname>Johnlemuel</foaf:givenname>
 <foaf:family_name>Casilag</foaf:family_name>
@@ -24,4 +27,10 @@
 <foaf:Person>
 <foaf:name>Aldi Maraya</foaf:name>
 <foaf:mbox_sha1sum>6e92220c49a7944d1d5378530287d5c2910b55e4</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+
+<foaf:Group>
+ <foaf:name>Filipino American Student Association</foaf:name>
+</foaf:Group>
+
+
 </rdf:RDF>
